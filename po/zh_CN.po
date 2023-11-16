@@ -45,12 +45,12 @@ msgstr "常规"
 #: src/gtk/help-overlay.ui:14
 msgctxt "shortcut window"
 msgid "Show Shortcuts"
-msgstr "显示快速键"
+msgstr "显示快捷键"
 
 #: src/gtk/help-overlay.ui:20
 msgctxt "shortcut window"
 msgid "Preferences"
-msgstr "首选项"
+msgstr "偏好"
 
 #: src/gtk/help-overlay.ui:26
 msgctxt "shortcut window"
@@ -95,7 +95,7 @@ msgstr "切换排序"
 #: src/gtk/help-overlay.ui:72
 msgctxt "shortcut window"
 msgid "Reload Library"
-msgstr "重载曲库"
+msgstr "重新加载曲库"
 
 #: src/gtk/play-panel.ui:16 src/ui/store-panel.vala:340
 msgid "Back"
@@ -151,15 +151,15 @@ msgstr "播放"
 
 #: src/gtk/preferences.ui:115
 msgid "Show audio peak level"
-msgstr "显示音频峰值"
+msgstr "启用音频可视化"
 
 #: src/gtk/preferences.ui:119
 msgid "Display characters"
-msgstr "显示的字符"
+msgstr "显示字符"
 
 #: src/gtk/preferences.ui:134
 msgid "Rotate album cover"
-msgstr "旋转专辑封面"
+msgstr "专辑封面旋转"
 
 #: src/gtk/preferences.ui:146
 msgid "Enable gapless playback"
@@ -167,7 +167,7 @@ msgstr "启用无缝续播"
 
 #: src/gtk/preferences.ui:158
 msgid "Normalize volume with ReplayGain"
-msgstr "自动音量平衡"
+msgstr "自动平衡音量"
 
 #: src/gtk/preferences.ui:164
 msgid "Prefer audio sink of GStreamer"
@@ -187,7 +187,7 @@ msgstr "搜索"
 
 #: src/gtk/store-panel.ui:73
 msgid "_Reload Library"
-msgstr "重载曲库(_R)"
+msgstr "重建曲库(_R)"
 
 #: src/gtk/store-panel.ui:79
 msgid "_Preferences"
@@ -215,7 +215,7 @@ msgstr "艺术家/专辑"
 
 #: src/gtk/store-panel.ui:111
 msgid "Title"
-msgstr "标题"
+msgstr "曲名"
 
 #: src/gtk/store-panel.ui:116
 msgid "Recent"
